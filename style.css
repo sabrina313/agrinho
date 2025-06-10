@@ -1,0 +1,18 @@
+.titulo-rosa {
+    color: pink; 
+}
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Título Rosa</title>
+    <style>
+        .titulo-rosa {
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="titulo-rosa">Este é um título em cor rosa</h1>
+</body>
+</html>
